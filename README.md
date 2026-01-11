@@ -23,4 +23,30 @@ HTML, CSS ve basit JavaScript kullanılarak oluşturulmuştur.
   - Montserrat
   - Playfair Display
 
-## 📂 Proje Yapısı
+
+## ✨ Özellikler
+- Hero alanı ve sanatçı bilgi kartı
+- Albümler için kart tasarımı
+- Responsive (mobil uyumlu) yapı
+- Albüm kartlarına tıklanınca bilgilendirme mesajı
+- Koyu tema tasarım
+
+## 🚀 Geliştirilebilir Özellikler
+- Albüm detay sayfaları
+- Gerçek konser ve albüm verileri
+- JavaScript ile modal pencere
+- Dark / light mode
+- Daha fazla animasyon
+
+## 📸 Ekran Görüntüsü
+> (İleride buraya proje görselleri eklenebilir)
+
+## 👤 Geliştirici
+**naz icen**  
+Bu proje eğitim ve deneme amaçlı hazırlanmıştır.
+
+---
+
+⭐ Eğer beğendiyseniz repo’ya yıldız bırakmayı unutmayın!
+
+
